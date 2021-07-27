@@ -19,8 +19,6 @@ I love learn to create new things, my passion is progress, I seek to be better t
 | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
 | <a target="_blank"  align="center" style="margin:0rem 1rem; "  href="http://firealarmserviceteam.com"><img src="./assets/fireservices.png" alt="Fire Alarm Service Team" width="200"/></a> | <a target="_blank"  align="center" style="margin:0rem 1rem; "  href="http://steinwaydetroit.com"><img src="./assets/steinway.png" alt="Steinway Detroit" width="200"/></a> | <a target="_blank"  align="center" style="margin:0rem 1rem; "  href="https://satrnnews.com"><img src="./assets/satrn.png" alt="Satrn News" width="200"/></a> | <a align="center" target="_blank" style="margin:0rem 1rem; " href="https://carbiderecycling.com"><img src="./assets/carbide.png" alt="Carbide Recycling." width="200"/></a> |
 
-|
-
 <br>
 
 ### Currently Learning:
