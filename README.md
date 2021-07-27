@@ -27,7 +27,7 @@ I love learn to create new things, my passion is progress, I seek to be better t
 
 ![React](https://img.shields.io/badge/-React-000?&logo=React&color=whitesmoke)
 ![Redux](https://img.shields.io/badge/-Redux-000?&logo=Redux&logoColor=764ABC&color=whitesmoke)
-![Jest](https://img.shields.io/badge/-Jest-000?&logo=Jest&color=whitesmoke)
+![Jest](https://img.shields.io/badge/-Jest-000?&logo=Jest&color=whitesmoke&logoColor=0996e5)
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python&color=whitesmoke)
 
 ### Technology I Use:
@@ -37,35 +37,35 @@ I love learn to create new things, my passion is progress, I seek to be better t
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript&color=whitesmoke)
 ![PHP](https://img.shields.io/badge/-PHP-000?&logo=PHP&color=whitesmoke)
 
-![jQuery](https://img.shields.io/badge/-jQuery-000?&logo=jQuery&color=whitesmoke)
+![jQuery](https://img.shields.io/badge/-jQuery-000?&logo=jQuery&color=whitesmoke&logoColor=0996e5)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-000?&logo=Bootstrap&color=whitesmoke)
 ![Laravel](https://img.shields.io/badge/-Laravel-000?&logo=Laravel&color=whitesmoke)
 ![React](https://img.shields.io/badge/-React-000?&logo=React&color=whitesmoke)
 ![Redux](https://img.shields.io/badge/-Redux-000?&logo=Redux&logoColor=764ABC&color=whitesmoke)
-![MaterialUI](https://img.shields.io/badge/-MaterialUI-000?&logo=MaterialUI&color=whitesmoke)
+![MaterialUI](https://img.shields.io/badge/-MaterialUI-000?&logo=MaterialUI&color=whitesmoke&logoColor=0996e5)
 
 ![WooCommerce](https://img.shields.io/badge/-WooCommerce-000?&logo=WooCommerce&color=whitesmoke)
-![WordPress](https://img.shields.io/badge/-WordPress-000?&logo=WordPress&color=whitesmoke)
+![WordPress](https://img.shields.io/badge/-WordPress-000?&logo=WordPress&color=whitesmoke&logoColor=0996e5)
 ![Kentico](https://img.shields.io/badge/-Kentico-000?&logo=Kentico&color=whitesmoke)
 
 ![MongoDB](https://img.shields.io/badge/-SQL-000?&logo=MySQL&color=whitesmoke)
 ![SQL](https://img.shields.io/badge/-MongoDB-000?&logo=MongoDB&color=whitesmoke)
 
-![NGINX](https://img.shields.io/badge/-NGINX-000?&logo=NGINX&color=whitesmoke)
-![Apache](https://img.shields.io/badge/-Apache-000?&logo=Apache&color=whitesmoke)
+![NGINX](https://img.shields.io/badge/-NGINX-000?&logo=NGINX&color=whitesmoke&logoColor=009136)
+![Apache](https://img.shields.io/badge/-Apache-000?&logo=Apache&color=whitesmoke&logoColor=c0213a)
 
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=Node.js&color=whitesmoke)
-![Express](https://img.shields.io/badge/-Express-000?&logo=Express&color=whitesmoke)
-![Jest](https://img.shields.io/badge/-Jest-000?&logo=Jest&color=whitesmoke)
+![Express](https://img.shields.io/badge/-Express-000?&logo=Express&color=whitesmoke&logoColor=0996e5)
+![Jest](https://img.shields.io/badge/-Jest-000?&logo=Jest&color=whitesmoke&logoColor=0996e5)
 
 ![cPanel](https://img.shields.io/badge/-cPanel-000?&logo=cPanel&color=whitesmoke)
 ![Git](https://img.shields.io/badge/-Git-000?&logo=Git&color=whitesmoke)
-![MicrosoftSQLServer](https://img.shields.io/badge/-MicrosoftSQLServer-000?&logo=MicrosoftSQLServer&color=whitesmoke)
-![Markdown](https://img.shields.io/badge/-Markdown-000?&logo=Markdown&color=whitesmoke)
+![MicrosoftSQLServer](https://img.shields.io/badge/-MicrosoftSQLServer-000?&logo=MicrosoftSQLServer&color=whitesmoke&logoColor=0996e5)
+![Markdown](https://img.shields.io/badge/-Markdown-000?&logo=Markdown&color=whitesmoke&logoColor=000)
 ![VisualStudioCode](https://img.shields.io/badge/-VS_Code-000?&logo=VisualStudioCode&logoColor=339fea&color=whitesmoke)
 ![Postman](https://img.shields.io/badge/-Postman-000?&logo=Postman&color=whitesmoke)
 ![AdobePhotoshop](https://img.shields.io/badge/-Photoshop-000?&logo=AdobePhotoshop&color=whitesmoke)
-![GIMP](https://img.shields.io/badge/-GIMP-000?&logo=GIMP&color=whitesmoke)
+![GIMP](https://img.shields.io/badge/-GIMP-000?&logo=GIMP&color=whitesmoke&logoColor=6f6b62)
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker&color=whitesmoke)
 
 ![GoogleAnalytics](https://img.shields.io/badge/-GoogleAnalytics-000?&logo=GoogleAnalytics&color=whitesmoke)
