@@ -27,6 +27,7 @@ I love learn to create new things, my passion is progress, I seek to be better t
 ![Redux](https://img.shields.io/badge/-Redux-000?&logo=Redux&logoColor=764ABC&color=whitesmoke)
 ![Jest](https://img.shields.io/badge/-Jest-000?&logo=Jest&color=whitesmoke&logoColor=0996e5)
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python&color=whitesmoke)
+![Salesforce](https://img.shields.io/badge/-Salesforce-000?&logo=Salesforce&color=whitesmoke&logoColor=0996e5)
 
 ### Technology I Use:
 
