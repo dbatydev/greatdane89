@@ -50,6 +50,7 @@ I love learn to create new things, my passion is progress, I seek to be better t
 
 ![MongoDB](https://img.shields.io/badge/-SQL-000?&logo=MySQL&color=whitesmoke)
 ![SQL](https://img.shields.io/badge/-MongoDB-000?&logo=MongoDB&color=whitesmoke)
+![Postgresql](https://img.shields.io/badge/-Postgresql-000?&logo=postgresql&color=whitesmoke)
 
 ![NGINX](https://img.shields.io/badge/-NGINX-000?&logo=NGINX&color=whitesmoke&logoColor=009136)
 ![Apache](https://img.shields.io/badge/-Apache-000?&logo=Apache&color=whitesmoke&logoColor=c0213a)
