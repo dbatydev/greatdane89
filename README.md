@@ -34,6 +34,7 @@ I love learn to create new things, my passion is progress, I seek to be better t
 ![CSS3](https://img.shields.io/badge/-CSS3-000?&logo=CSS3&logoColor=339fea&color=whitesmoke)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript&color=whitesmoke)
 ![PHP](https://img.shields.io/badge/-PHP-000?&logo=PHP&color=whitesmoke)
+![Python](https://img.shields.io/badge/-python-000?&logo=python&color=whitesmoke)
 
 ![jQuery](https://img.shields.io/badge/-jQuery-000?&logo=jQuery&color=whitesmoke&logoColor=0996e5)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-000?&logo=Bootstrap&color=whitesmoke)
