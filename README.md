@@ -66,6 +66,7 @@ I love learn to create new things, my passion is progress, I seek to be better t
 ![AdobePhotoshop](https://img.shields.io/badge/-Photoshop-000?&logo=AdobePhotoshop&color=whitesmoke)
 ![GIMP](https://img.shields.io/badge/-GIMP-000?&logo=GIMP&color=whitesmoke&logoColor=6f6b62)
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker&color=whitesmoke)
+![Salesforce](https://img.shields.io/badge/-Salesforce-000?&logo=Salesforce&color=whitesmoke&logoColor=0996e5)
 
 ![GoogleAnalytics](https://img.shields.io/badge/-GoogleAnalytics-000?&logo=GoogleAnalytics&color=whitesmoke)
 ![GoogleAds](https://img.shields.io/badge/-GoogleAds-000?&logo=GoogleAds&color=whitesmoke)
